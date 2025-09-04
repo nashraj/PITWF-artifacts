@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# LaTeX (if you export any PDF from Overleaf or compile locally)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+
+# Python cache (if symbolic parser scripts ever get added)
+__pycache__/
+*.pyc
+
+# VSCode or JetBrains IDEs (optional)
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.bak
+*.tmp
